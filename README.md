@@ -5,6 +5,7 @@ DM **@msnba** on Discord for anything programming related.
 *Stuff I Currently Use*
 
 ![Programming Languages](https://skillicons.dev/icons?i=java,rust,cpp,cmake)
+I'm a bitch because I use Rust. By the way, I don't shower either.
 
 *Stuff I Have Used*
 
