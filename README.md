@@ -2,14 +2,10 @@ Hello! I'm a developer & high school student. I use Java and C++ for Computer Sc
 
 DM **@msnba** on Discord for anything programming related.
 
-*Stuff I Currently Use*
+*Languages/Tools I'm Proficient In*
 
-![Programming Languages](https://skillicons.dev/icons?i=java,rust,cpp,cmake)
+![Programming Languages](https://skillicons.dev/icons?i=java,cpp,python,cmake,vscode)
 
-*Stuff I Have Used*
+*Languages/Tools I'm Familiar With*
 
-![Platforms](https://skillicons.dev/icons?i=react,nodejs,python,html,css,js,tailwind)
-
-*Tools/Applications That I Use*
-
-![Applications](https://skillicons.dev/icons?i=figma,vscode)
+![Platforms](https://skillicons.dev/icons?i=rust,nodejs,react,js,cs)
