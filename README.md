@@ -1,4 +1,4 @@
-Hello! I'm a developer & high school student. I use Java and C++ for most CS-related things, as well as some web frameworks. I am currently learning Rust. I prefer working mostly on backend and low-level stuff, and I also like to work on random projects in my free time.  
+Hello! I'm a developer & high school student. I use Java and C++ for most CS-related things, as well as some web frameworks, and I am currently learning Rust. I prefer working mostly on low-level stuff and backend, but I also like working on random projects in my free time.  
 
 DM **@msnba** on Discord for anything programming related.
 
@@ -6,6 +6,6 @@ DM **@msnba** on Discord for anything programming related.
 
 ![Programming Languages](https://skillicons.dev/icons?i=java,cpp,python,rust,js,cs)
 
-*Tools/Frameworks I Use*
+*Tools*
 
-![Platforms](https://skillicons.dev/icons?i=vscode,idea,cmake,react)
+![Platforms](https://skillicons.dev/icons?i=vscode,idea)
