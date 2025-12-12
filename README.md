@@ -3,6 +3,7 @@ Hello! I'm a developer & high school student. I use Java competitively and C++ (
 DM **@msnba** on Discord for anything programming related.
 
 *Skills*
+
 ![Skills](https://skillicons.dev/icons?i=cpp,c,java,python,rust,js,cs,react)
 
 *Tools*
