@@ -2,10 +2,9 @@ Hello! I'm a developer & high school student. I use Java competitively and C++ (
 
 DM **@msnba** on Discord for anything programming related.
 
-*Languages*
-
-![Programming Languages](https://skillicons.dev/icons?i=java,cpp,python,rust,js,cs)
+*Skills*
+![Skills](https://skillicons.dev/icons?i=cpp,c,java,python,rust,js,cs,react)
 
 *Tools*
 
-![Platforms](https://skillicons.dev/icons?i=vscode,idea)
+![Tools](https://skillicons.dev/icons?i=vscode,idea,cmake,)
