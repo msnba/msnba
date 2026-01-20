@@ -4,7 +4,7 @@ DM **@msnba** on Discord for anything programming related.
 
 *Skills*
 
-![Skills](https://skillicons.dev/icons?i=cpp,c,java,python,rust,js,cs,react)
+![Skills](https://skillicons.dev/icons?i=cpp,c,java,python,rust,js,cs)
 
 *Tools*
 
