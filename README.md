@@ -1,4 +1,4 @@
-Hello! I'm a developer & high school student. I use Java competitively and C++ (my beloved) for personal things, as well as some web frameworks for projects that require it. Otherwise, I prefer working mostly on applications and low-level stuff.
+Hello! I'm a developer & high school student. I use Java competitively and C++ (my beloved) for personal things, as well as some web frameworks for projects that require it. Otherwise, I prefer working mostly on desktop applications and systems stuff.
 
 DM **@msnba** on Discord for anything programming related.
 
