@@ -6,6 +6,6 @@ DM **@msnba** on Discord for anything programming related.
 
 ![Skills](https://skillicons.dev/icons?i=cpp,c,java,python,js)
 
-*Tools*
+*Tools/Frameworks*
 
-![Tools](https://skillicons.dev/icons?i=vscode,idea,cmake)
+![Tools](https://skillicons.dev/icons?i=cmake,git,linux)
